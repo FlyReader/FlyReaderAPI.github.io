@@ -1,0 +1,11 @@
+﻿{
+  "items": [
+    {
+      "name": "TEST",
+      "url": "",
+      "ver": "1.0.0.0",
+      "authorname": "这是测试项目",
+      "ispackage": false
+    }
+  ]
+}
