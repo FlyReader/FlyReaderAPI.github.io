@@ -6,6 +6,48 @@
       "ver": "1.0.0.0",
       "authorname": "这是测试项目",
       "ispackage": false
+    },
+    {
+      "name": "零点看书",
+      "url": "https://jacklee92.github.io/FlyReaderAdd-Ons/Add-Ons/00ksw3Base.fradd",
+      "ver": "1.0.0.4",
+      "authorname": "Jack Lee",
+      "ispackage": false
+    },
+    {
+      "name": "笔趣阁合集包",
+      "url": "https://jacklee92.github.io/FlyReaderAdd-Ons/Add-Ons/biqugePackage.fradd",
+      "ver": "1.0.8.0",
+      "authorname": "Jack Lee",
+      "ispackage": false
+    },
+    {
+      "name": "风华居",
+      "url": "https://jacklee92.github.io/FlyReaderAdd-Ons/Add-Ons/fenghajucc.fradd",
+      "ver": "1.0.0.3",
+      "authorname": "Jack Lee",
+      "ispackage": false
+    }, 
+    {
+      "name": "名著小说阅读网",
+      "url": "https://jacklee92.github.io/FlyReaderAdd-Ons/Add-Ons/mzhu8com.fradd",
+      "ver": "1.0.0.3",
+      "authorname": "Jack Lee",
+      "ispackage": false
+    },
+    {
+      "name": "quanben.com",
+      "url": "https://jacklee92.github.io/FlyReaderAdd-Ons/Add-Ons/quanben.fradd",
+      "ver": "1.0.0.2",
+      "authorname": "Jack Lee",
+      "ispackage": false
+    },
+    {
+      "name": "remen2019",
+      "url": "https://jacklee92.github.io/FlyReaderAdd-Ons/Add-Ons/remen2019.fradd",
+      "ver": "1.0.0.13",
+      "authorname": "Jack Lee",
+      "ispackage": false
     }
   ]
 }
